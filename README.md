@@ -19,7 +19,7 @@ This is a simple React application for managing users using the [Reqres API](htt
 ---
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/react-user-management.git
+git clone https://github.com/PoojaMukati12/User-Management/tree/main.
 cd react-user-management
 
 ### 2.Install Dependencies
@@ -31,11 +31,11 @@ npm run dev
 
 ## Tools & Libraries Used
 
-React
-React Router DOM
-Axios
-Tailwind CSS
-Vite (for dev server and bundling)
+#### React
+#### React Router DOM
+#### Axios
+#### Tailwind CSS
+#### Vite (for dev server and bundling)
 
 
 
