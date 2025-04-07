@@ -15,3 +15,30 @@ This is a simple React application for managing users using the [Reqres API](htt
 
 ## 🚀 Getting Started
 ### [Click Here](https://user-management-eight-self.vercel.app/)
+
+---
+
+### 1. Clone the Repository
+git clone https://github.com/your-username/react-user-management.git
+cd react-user-management
+
+### 2.Install Dependencies
+Make sure you have Node.js and npm installed.
+npm install
+
+### 3. Run the App
+npm run dev
+
+## Tools & Libraries Used
+
+React
+React Router DOM
+Axios
+Tailwind CSS
+Vite (for dev server and bundling)
+
+
+
+
+
+
